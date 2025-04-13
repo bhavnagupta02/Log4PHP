@@ -1,0 +1,17 @@
+https://logging.apache.org/log4php/quickstart.html
+Via Composer
+Install composer in your project:
+
+curl -s http://getcomposer.org/installer | php
+Create a composer.json file in your project root:
+
+{
+    "require": {
+        "apache/log4php": "2.3.0"
+    }
+}
+Install using Composer:
+
+php composer.phar install
+
+composer require apache/log4php

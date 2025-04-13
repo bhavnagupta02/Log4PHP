@@ -1,0 +1,22 @@
+
+
+
+// Pure OOP, strongly typed PHP code
+
+// Integration with log4pho
+// *log4php
+
+// Log4php is externally configured via an xml Cyclic log of max 20MB, 20 files, 1MB per file
+
+// // Log different types of messages.
+// $this->logger->info('This is an INFO message.');
+
+// $this->logger->warn('This is a WARNING message.');
+
+// $this->logger->error('This is an ERROR message.');
+
+// $this->logger->fatal('This is a FATAL message.');
+
+// $this->logger->debug('This is a DEBUG message.');
+				
+// Terminal (console based PHP) application
